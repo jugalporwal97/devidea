@@ -20,21 +20,14 @@ function App() {
 />
       </h1>
       <h4>Convert your Ideas into real world application.</h4>
-      <h4>Get your Business Online.</h4>
+
       <h3 className="wish">The Best part is: <strong >Pay as you WISH</strong></h3>
+ 
       </div>
-      <h1 style={{marginLeft:'20px'}}>Our Projects: </h1>
-<div className="projects">
-  <div className="pro">
-  </div>
-  <div className="pro">
-  </div>
-  <div className="pro">
-  </div>
+  
   
 
-  </div>
-<div className="footer">Contact us: Jugalporwal97@gmail.com , Lokeshdangi002@gmail.com</div>
+<div className="footer">Contact us: <a href = "mailto: Jugalporwal97@gmail.com ">jugalporwal97@gmail.com</a> ,  <a href = "mailto: lokeshdangi002@gmail.com">Lokeshdangi002@gmail.com</a></div>
   </div>
   );
 }
