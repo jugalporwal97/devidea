@@ -1,0 +1,31 @@
+.App {
+  text-align: center;
+
+}
+.wish{
+  font-size: 2rem;
+  color: rgb(165, 202, 190);
+}
+.projects{
+  width: auto;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+ 
+flex-wrap: wrap;
+
+
+}
+.pro{
+  width: 200px;
+  height: 200px;
+  background-color: aqua;
+  margin: 2%;
+  padding: 2%;
+}
+.footer{
+  text-align: center;
+  font-size: 1.2rem;
+  margin: auto;
+  padding: 2%;
+}
